@@ -14,7 +14,7 @@ A responsive, accessible profile card built with semantic HTML, modern CSS, and 
 1. Clone the repo  
    `git clone https://github.com/Mychaelyung/profile-card.git`
 2. Open `index.html` in your browser.
-3. Or visit the live version: [Live Demo](https://Mychaelyung.github.io/profile-card/)
+3. Or visit the live version: [Live Demo](https://mychaelyung.github.io/Profile-card/)
 
 ### 🧪 Test IDs
 Each key element includes a `data-testid` attribute for automation testing.
